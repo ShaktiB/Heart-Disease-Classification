@@ -5,5 +5,8 @@ The neural network was developed from scratch in MATLAB using back-propagation w
 
 Two cases were tested with the network, one was the classification of an XOR problem, and the other was classification of the presence of heart disease. 
 
+![](Graphs/LearningCurveXOR.jpg)
+-- Learning curve for the XOR problem 
 
-![](Graphs/swayslow.jpg)
+![](Graphs/learningcurve2.jpg)
+-- Learning curve for the Heart Diease data 
